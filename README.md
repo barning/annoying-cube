@@ -1,7 +1,7 @@
 # Annoying Cube
 Just a cube that wants to be touched from time to time.
 
-![Cube Prototype](img/2017-03-14 21_56_22.gif)
+![Cube Prototype](https://github.com/barning/annoying-cube/blob/master/img/2017-03-14%2021_56_22.gif?raw=true)
 
 ### Used Parts
 - [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
